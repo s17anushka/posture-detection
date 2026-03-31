@@ -1,4 +1,4 @@
-# 🪑 Smart Posture Detection System (Advanced)
+# 🪑 Smart Posture Detection System 
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
 ![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-green?logo=opencv)
@@ -118,5 +118,8 @@ This project demonstrates how **lightweight computer vision techniques combined 
 ```bash
 pip install -r requirements.txt
 python app.py
+```
 
-##  Author: Anushka Singh
+## 👩‍💻 Author
+
+**Anushka Singh**
